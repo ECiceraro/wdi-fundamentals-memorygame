@@ -67,7 +67,8 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
-	padding: 20px;	
+	padding: 20px;
+	margin-bottom: 0;	
 }
 
 p {
