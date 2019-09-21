@@ -57,7 +57,7 @@ h3 {
 	font-size: 20px;
 }
 img {
-	margin: 40px 8px 0 8px;
+	margin: 40px 8px 80px 8px;
 }
  
 footer {
@@ -68,7 +68,7 @@ footer {
 	letter-spacing: .08em;
 	font-weight: 500;
 	padding: 20px;
-	margin-bottom: 0;	
+	margin-top: 20px;	
 }
 
 p {
